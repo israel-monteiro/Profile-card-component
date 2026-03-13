@@ -3,7 +3,7 @@
 body {
     background-color: var(--colors-blue-600);
     height: 100vh;
-    font-family: 'Kumbh Sans';
+    font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
     color: var(--colors-navy-950);
 
