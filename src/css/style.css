@@ -80,7 +80,7 @@ hr {
 }
 
 .profile-numbers .info .counter,
-.card .profile-informations p {
+.card .profile-informations h1 {
     font-weight: 700;
 }
 
@@ -91,7 +91,7 @@ hr {
     font-size: 14px;
 }
 
-.card .profile-informations p span {
+.card .profile-informations h1 span {
     font-weight: 400;
     font-size: 18px;
 }
